@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	height:100vh;
+	display:flex;
+	flex-direction:column;
+	gap:20px;
+	justify-content:center;
+	align-items:center;
+}
